@@ -1,0 +1,34 @@
+{
+	"namespace" : "demo",
+	"name" : "rooms",
+	
+	"rooms" : [
+		{"level" : [0, 1, 2, 3], "mode" : "random", "type" : "BRICK", "weight" : 10},
+		
+		{"level" : 0, "mode" : "single", "type" : "FIRE"},
+		{"level" : 0, "mode" : "single", "type" : "CAKE"},
+		
+		{"level" : 1, "mode" : "single", "type" : "LAB"},
+		{"level" : 1, "mode" : "single", "type" : "MESS"},
+		{"level" : 1, "mode" : "single", "type" : "PIT"},
+		
+		
+		{"level" : [2, 3], "mode" : "single", "type" : "OSSUARY"},
+		{"level" : 2, "mode" : "single", "type" : "CREEPER"},
+		{"level" : 2, "mode" : "single", "type" : "SPIDER"},
+		{"level" : 2, "mode" : "random", "type" : "PIT", "weight" : 1},
+		{"level" : 2, "mode" : "random", "type" : "CRYPT", "weight" : 2},
+		{"level" : 2, "mode" : "random", "type" : "PRISON", "weight" : 2},
+		
+		{"level" : 3, "mode" : "single", "type" : "ENDER"},
+		{"level" : 3, "mode" : "random", "type" : "SPIDER", "weight" : 2},
+		{"level" : 3, "mode" : "random", "type" : "CREEPER", "weight" : 1},
+		
+		{"level" : 4, "mode" : "single", "type" : "OBSIDIAN"},
+		{"level" : 4, "mode" : "single", "type" : "DARKHALL"},
+		{"level" : 4, "mode" : "random", "type" : "NETHER", "weight" : 10},
+		{"level" : 4, "mode" : "random", "type" : "NETHERFORT", "weight" : 1},
+		{"level" : 4, "mode" : "random", "type" : "SPIDER", "weight" : 1},
+		{"level" : 4, "mode" : "random", "type" : "BLAZE", "weight" : 2}
+	]
+}

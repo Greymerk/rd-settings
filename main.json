@@ -1,0 +1,19 @@
+{
+	"namespace" : "demo",
+	"name" : "main",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"PLAINS"
+		]
+	},
+	"inherit" : [
+		"demo:tower",
+		"demo:layout",
+		"demo:rooms",
+		"demo:secrets",
+		"demo:segments",
+		"demo:theme",
+		"demo:loot"
+	]
+}

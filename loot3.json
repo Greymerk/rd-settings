@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "loot3",
+	"name" : "demo:loot3",
 	"loot_rules" : [
 		{
 			"level" : 3,

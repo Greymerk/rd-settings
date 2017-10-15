@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "tower",
+	"name" : "demo:tower",
 	"tower" : {
 		"type" : "ROGUE",
 		"theme" : {

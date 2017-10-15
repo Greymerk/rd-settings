@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "main",
+	"name" : "demo:main",
 	"exclusive" : true,
 	"criteria" : {
 		"biomeTypes" : [
@@ -11,7 +10,6 @@
 		"demo:tower",
 		"demo:layout",
 		"demo:rooms",
-		"demo:secrets",
 		"demo:segments",
 		"demo:theme",
 		"demo:loot"

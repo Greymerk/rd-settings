@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "rooms",
+	"name" : "demo:rooms",
 	
 	"rooms" : [
 		{"level" : [0, 1, 2, 3], "mode" : "random", "type" : "BRICK", "weight" : 10},
@@ -29,6 +28,11 @@
 		{"level" : 4, "mode" : "random", "type" : "NETHER", "weight" : 10},
 		{"level" : 4, "mode" : "random", "type" : "NETHERFORT", "weight" : 1},
 		{"level" : 4, "mode" : "random", "type" : "SPIDER", "weight" : 1},
-		{"level" : 4, "mode" : "random", "type" : "BLAZE", "weight" : 2}
+		{"level" : 4, "mode" : "random", "type" : "BLAZE", "weight" : 2},
+		
+		{"level": 0, "mode" : "secret", "type" : "SMITH", "count" : "1"},
+		{"level": 0, "mode" : "secret", "type" : "BEDROOM", "count" : "2"},
+		{"level": 0, "mode" : "secret", "type" : "FIREWORK", "count" : "1"},
+		{"level": 1, "mode" : "secret", "type" : "BTEAM", "count" : "1"}
 	]
 }

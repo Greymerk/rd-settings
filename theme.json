@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "theme",
+	"name" : "demo:theme",
 	"themes" : [
 		{
 			"level" : 0,

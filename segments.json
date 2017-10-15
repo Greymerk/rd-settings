@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "segments",
+	"name" : "demo:segments",
 	"segments" : [
 		{"level": [0,1,2,3,4], "type" : "CHEST", "weight" : 1},
 		{"level": [0,1,2,3], "type" : "SHELF", "weight" : 3},

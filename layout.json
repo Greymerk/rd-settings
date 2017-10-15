@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "layout",
+	"name" : "demo:layout",
 	"num_rooms" : [10, 20, 30, 20, 20],
 	"scatter" : [12, 12, 12, 12, 12],
 	"layouts" : [

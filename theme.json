@@ -14,18 +14,9 @@
 				}
 			},
 			"secondary" : {
-				"walls" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "planks"}
-				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "log"}
-				},
-				"stair" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "oak_stairs"}
-				}
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "planks"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "log"}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "oak_stairs"}}
 			}
 		},
 		{
@@ -40,24 +31,12 @@
 						{"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 3}
 					]
 				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "log", "meta" : 1}
-				}
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "log", "meta" : 1}}
 			},
 			"secondary" : {
-				"walls" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "planks", "meta" : 1}
-				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "log", "meta" : 1}
-				},
-				"stair" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "spruce_stairs"}
-				}
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "planks", "meta" : 1}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "log", "meta" : 1}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "spruce_stairs"}}
 			}
 		},
 		{
@@ -72,10 +51,7 @@
 						{"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2}
 					]
 				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "stone", "meta" : 6}
-				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "stone", "meta" : 6}},
 				"door" : {"name" : "iron_door"}
 			},
 			"secondary" : {
@@ -88,10 +64,7 @@
 						{"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2}
 					]
 				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "stone", "meta" : 6}
-				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "stone", "meta" : 6}},
 				"door" : {"name" : "iron_door"}
 			}
 		},
@@ -110,10 +83,7 @@
 						{"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 4}
 					]
 				},
-				"stair" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "stone_stairs"}
-				}
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}}
 			}
 		},
 		{
@@ -128,14 +98,8 @@
 						{"type" : "METABLOCK", "data" : {"name" : "coal_block"}, "weight" : 1}
 					]
 				},
-				"stair" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "nether_brick_stairs"}
-				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "obsidian"}
-				}
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "nether_brick_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "obsidian"}}
 			},
 			"secondary" : {
 				"walls" : {
@@ -144,14 +108,8 @@
 						{"type" : "METABLOCK", "data" : {"name" : "nether_brick"}, "weight" : 1}
 					]
 				},
-				"stair" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "nether_brick_stairs"}
-				},
-				"pillar" : {
-					"type" : "METABLOCK",
-					"data" : {"name" : "magma"}
-				}
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "nether_brick_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "magma"}}
 			}
 		}
 	]

@@ -1,0 +1,32 @@
+{
+	"name" : "demo:spawners",
+	"spawners" : [
+		{
+			"type" : "ZOMBIE",
+			"spawns" : [
+				{
+					"name" : "minecraft:husk"
+				}
+			],
+			"level" : 0
+		},
+			{
+			"type" : "SPIDER",
+			"spawns" : [
+				{
+					"name" : "minecraft:silverfish"
+				}
+			],
+			"level" : 0
+		},
+			{
+			"type" : "SKELETON",
+			"spawns" : [
+				{
+					"name" : "minecraft:wither_skeleton"
+				}
+			],
+			"level" : 0
+		}
+	]
+}

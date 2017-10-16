@@ -12,6 +12,7 @@
 		"demo:rooms",
 		"demo:segments",
 		"demo:theme",
-		"demo:loot"
+		"demo:loot",
+		"demo:spawners"
 	]
 }

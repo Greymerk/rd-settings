@@ -13,18 +13,14 @@
 		{
 			"type" : "SPIDER",
 			"potentials" : [
-				{
-					"name" : "minecraft:silverfish"
-				}
+				{"name" : "minecraft:creeper", "nbt" : '{powered:1}'}
 			],
 			"level" : [0, 1]
 		},
 		{
 			"type" : "SKELETON",
 			"potentials" : [
-				{
-					"name" : "minecraft:wither_skeleton"
-				}
+				{"name" : "minecraft:wither_skeleton"}
 			],
 			"level" : [0, 1]
 		}

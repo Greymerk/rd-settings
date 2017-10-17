@@ -13,7 +13,7 @@
 		{
 			"type" : "SPIDER",
 			"potentials" : [
-				{"name" : "minecraft:creeper", "nbt" : '{powered:1}'}
+				{"name" : "minecraft:creeper", "nbt" : "{powered:1}"}
 			],
 			"level" : [0, 1]
 		},

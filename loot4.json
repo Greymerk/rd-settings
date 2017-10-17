@@ -40,7 +40,14 @@
 			],
 			"each" : true,
 			"quantity" : 8
+		},
+		{
+			"level" : 4,
+			"loot" : [
+				{"data" : {"type" : "enchanted_book", "ench" : 30}, "weight" : 1}
+			],
+			"each" : false,
+			"quantity" : 6
 		}
-
 	]
 }

@@ -3,30 +3,30 @@
 	"spawners" : [
 		{
 			"type" : "ZOMBIE",
-			"spawns" : [
-				{
-					"name" : "minecraft:husk"
-				}
+			"potentials" : [
+				{"name" : "minecraft:vindication_illager"},
+				{"name" : "minecraft:witch"},
+				{"name" : "minecraft:zombie_villager"}
 			],
-			"level" : 0
+			"level" : [0, 1]
 		},
-			{
+		{
 			"type" : "SPIDER",
-			"spawns" : [
+			"potentials" : [
 				{
 					"name" : "minecraft:silverfish"
 				}
 			],
-			"level" : 0
+			"level" : [0, 1]
 		},
-			{
+		{
 			"type" : "SKELETON",
-			"spawns" : [
+			"potentials" : [
 				{
 					"name" : "minecraft:wither_skeleton"
 				}
 			],
-			"level" : 0
+			"level" : [0, 1]
 		}
 	]
 }

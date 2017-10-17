@@ -48,6 +48,14 @@
 			],
 			"each" : false,
 			"quantity" : 6
+		},
+		{
+			"level" : 3,
+			"loot" : [
+				{"data" : {"type" : "specialty", "level" : 3}, "weight" : 1}
+			],
+			"each" : false,
+			"quantity" : 4
 		}
 
 	]

@@ -13,6 +13,7 @@
 		"demo:segments",
 		"demo:theme",
 		"demo:loot",
-		"demo:spawners"
+		"demo:spawners",
+		"demo:filters"
 	]
 }

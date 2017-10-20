@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "loot_tables",
+	"name" : "demo:loot_tables",
 	"loot_tables" : [
 		{"level" : [0, 1, 2], "table" : "minecraft:chests/simple_dungeon"},
 		{"type" : "STARTER", "table" : "minecraft:chests/spawn_bonus_chest"},

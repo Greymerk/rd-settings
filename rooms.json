@@ -1,6 +1,5 @@
 {
 	"name" : "demo:rooms",
-	
 	"rooms" : [
 		{"level" : [0, 1, 2, 3], "type" : "random", "name" : "BRICK", "weight" : 10},
 		

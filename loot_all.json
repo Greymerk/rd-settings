@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "loot_all",
+	"name" : "demo:loot_all",
 	"loot_rules" : [
 		{
 			"level" : [0, 1, 2, 3, 4],

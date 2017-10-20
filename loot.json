@@ -1,6 +1,5 @@
 {
-	"namespace" : "demo",
-	"name" : "loot",
+	"name" : "demo:loot",
 	"inherit" : [
 		"demo:loot0",
 		"demo:loot1",

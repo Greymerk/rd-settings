@@ -1,6 +1,5 @@
 {
 	"name" : "demo:loot1",
-	
 	"loot_rules" : [
 		{
 			"level" : 1,
